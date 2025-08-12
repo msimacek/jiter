@@ -1,5 +1,5 @@
 [build-system]
-requires = ["maturin>=1,<2"]
+requires = ["maturin @ git+https://github.com/msimacek/maturin@msimacek/graalpy"]
 build-backend = "maturin"
 
 [project]
